@@ -1,2 +1,28 @@
-# 352807a4-membership-community-onboard
-The membership sites tool you'd build yourself — if you had the time.  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Membership &amp; Community Onboarding And Training — fully configured and ready to use - Pre-built dat
+# Membership & Community Onboarding and Training System Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/cNiaEX12D3o8e00fQ8cZC1j)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/cNiaEX12D3o8e00fQ8cZC1j)
+
